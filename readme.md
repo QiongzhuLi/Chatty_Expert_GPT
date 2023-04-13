@@ -42,3 +42,7 @@ python chatty_expert.py
 └─output (All temporary output will be placed here)
         input.wav
 ```
+
+## Follow up plans
+- Add a frontend
+- Dockerization for easier application

@@ -2,6 +2,11 @@
 By using this repository, you quickly build your customized chatbot and make conversations with it. 
 <br><br>
 
+## A short demo video
+<div style="position: relative; padding-bottom: 54.166666666666664%; height: 0;"><iframe src="https://www.loom.com/embed/e5a3c68351ad4ed1b8ceb2fe26e696fb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<br><br>
+
 ## Requirements
 1. Please install the necessary python modules  
     ```pip install -r requirement.txt```

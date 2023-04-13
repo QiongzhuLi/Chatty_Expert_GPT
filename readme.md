@@ -5,7 +5,7 @@ By using this repository, you quickly build your customized chatbot and make con
 ## A short demo video
 <!-- <div style="position: relative; padding-bottom: 54.166666666666664%; height: 0;"><iframe src="https://www.loom.com/embed/e5a3c68351ad4ed1b8ceb2fe26e696fb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> -->
 
-[![Watch the video](https://botnation.ai/site/wp-content/uploads/2022/01/chatbot-1-1348x800.png.webp)](https://www.loom.com/share/e5a3c68351ad4ed1b8ceb2fe26e696fb)
+[![Watch the video](https://plus.unsplash.com/premium_photo-1677094310893-0d6594c211ea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80)](https://www.loom.com/share/e5a3c68351ad4ed1b8ceb2fe26e696fb)
 
 
 
